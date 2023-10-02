@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <RootNamespace>JsBasic.SCompiler</RootNamespace>
+    <TargetFramework>net7.0</TargetFramework>
+    <OptionStrict>On</OptionStrict>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="Irony">
+      <HintPath>..\Library\Irony.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
